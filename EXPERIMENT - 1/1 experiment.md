@@ -26,7 +26,7 @@ table.
 Query:
 CREATE TABLE Employee_Master AS
 SELECT * FROM EMPLOYEE;
-![alt text](12.png)
+![alt text](1.png)
 
 2. 3. Delete all record into Employee_master whose DeptNo is 10
 Update 10% in his salary of DEPTNO 20 into
