@@ -22,6 +22,7 @@ DROP → Deletes the table permanently
 Perform following Query
 1. Create Employee_master table with data using Employee
 table.
+
 Query:
 CREATE TABLE Employee_Master AS
 SELECT * FROM EMPLOYEE;
